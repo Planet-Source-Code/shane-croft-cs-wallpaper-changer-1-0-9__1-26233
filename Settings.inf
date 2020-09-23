@@ -1,0 +1,14 @@
+[settings]
+monthly=False
+weekly=False
+daily=False
+hourly=False
+startup=False
+nochange=True
+preview=1
+random=0
+launchatstartup=0
+minimize=0
+lastpic=-1
+sdate=Date - Never
+stime=Time - Never
